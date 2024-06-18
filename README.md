@@ -28,4 +28,4 @@ Utilizando HTML,CSS e Javascript com o objetivo de criar um jogo da memória com
 
 Divirta-se jogando!🕒
 
-[Jogo da Memória]()
+[Jogo da Memória](https://luizfcs35.github.io/Jogo-da-Memoria/)
